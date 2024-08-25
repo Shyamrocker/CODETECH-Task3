@@ -188,7 +188,7 @@ For questions, suggestions, or feedback, please contact us at:
 
 - **Name**: Shyam S
 - **Email**: shyamrocker77@gmail.com
-- **LinkedIn**: [linkdin/Shyam](www.linkedin.com/in/shyam-s-231452250)
+- **LinkedIn**:(www.linkedin.com/in/shyam-s-231452250)
 
 
 ## Acknowledgments
